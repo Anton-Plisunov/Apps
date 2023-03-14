@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
     maxWidth: "80%",
   },
   circle: {
-    backgroundColor: "rgba(0,100,255,0)",
+    backgroundColor: "rgba(0,100,255,1)",
     width: 12,
     height: 12,
     opacity: 1,
